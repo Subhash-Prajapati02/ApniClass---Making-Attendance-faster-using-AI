@@ -212,7 +212,6 @@ def teacher_tab_manage_subjects():
             create_subject_dialog(teacher_id)
 
 
-    # LIST all SUBJECTS
     subjects = get_teacher_subjects(teacher_id)
     if subjects:
         for sub in subjects:

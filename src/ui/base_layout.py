@@ -96,7 +96,6 @@ def style_base_layout():
     """, unsafe_allow_html=True)
 
 
-    # ✅ Only necessary safe tweaks
     st.markdown("""
     <style>
 

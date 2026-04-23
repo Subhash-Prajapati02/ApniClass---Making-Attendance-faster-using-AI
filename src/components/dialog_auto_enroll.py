@@ -7,7 +7,6 @@ import time
 @st.dialog("Quick Enrollment")
 def auto_enroll_dialog(subject_code):
 
-    # ✅ FIX (case issue solve)
     subject_code = subject_code.upper()
 
     student = st.session_state.get("student_data")
