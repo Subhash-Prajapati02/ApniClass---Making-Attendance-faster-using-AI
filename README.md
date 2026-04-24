@@ -30,6 +30,3 @@ ApniClass is a full-stack AI-powered attendance system that automates classroom 
 - Better UI/UX
 - Model optimization
 - Mobile support
-
-## 💡 Author
-Subhash Kumar Prajapati
